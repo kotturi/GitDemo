@@ -16,5 +16,6 @@ public class ChildClass extends ParentClass {
 	public void C()
 	{
 		System.out.println("test");
+		System.out.println("Updated to git	");
 	}
 }
