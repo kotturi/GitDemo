@@ -17,5 +17,8 @@ public class ChildClass extends ParentClass {
 	{
 		System.out.println("test");
 		System.out.println("Updated to git	");
+		System.out.println("Updated to devBranch1	");
+		System.out.println("Updated to devBranch2	");
+
 	}
 }
